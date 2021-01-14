@@ -1,27 +1,39 @@
-# AngularTicTacToe
+# Angular Tic-Tac-Toe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
+This project is a brief introductory piece to Angular development. It was made
+using Fireship.io's tutorial.
 
-## Development server
+# License TL;DR
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This project is distributed under the MIT license. This is a paraphrasing of a
+[short summary](https://tldrlegal.com/license/mit-license).
 
-## Code scaffolding
+This license is a short, permissive software license. Basically, you can do
+whatever you want with this software, as long as you include the original
+copyright and license notice in any copy of this software/source.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## What you CAN do:
 
-## Build
+-   You may commercially use this project in any way, and profit off it or the
+    code included in any way;
+-   You may modify or make changes to this project in any way;
+-   You may distribute this project, the compiled code, or its source in any
+    way;
+-   You may incorporate this work into something that has a more restrictive
+    license in any way;
+-   And you may use the work for private use.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## What you CANNOT do:
 
-## Running unit tests
+-   You may not hold me (the author) liable for anything that happens to this
+    code as well as anything that this code accomplishes. The work is provided
+    as-is.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## What you MUST do:
 
-## Running end-to-end tests
+-   You must include the copyright notice in all copies or substantial uses of
+    the work;
+-   You must include the license notice in all copies or substantial uses of the
+    work.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+If you're feeling generous, give credit to me somewhere in your projects.
